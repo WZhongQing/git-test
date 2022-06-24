@@ -9,5 +9,6 @@ public class GetTest {
         System.out.println("master merge");
         System.out.println("hot-fix merge");
         System.out.println("推送到github");
+        System.out.println("拉取到idea");
     }
 }
