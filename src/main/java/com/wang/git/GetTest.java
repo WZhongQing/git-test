@@ -8,5 +8,6 @@ public class GetTest {
         System.out.println("hot-fix test");
         System.out.println("master merge");
         System.out.println("hot-fix merge");
+        System.out.println("推送到github");
     }
 }
